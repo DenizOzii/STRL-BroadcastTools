@@ -8,7 +8,7 @@
 
 - Programda herhangi bir virüs yok, ancak imzalamaları vs. yapılmadığı için Microsoft Defender'ın programı virüs olarak görme ihtimali mevcut. Dilerseniz programı virustotal.com üzerinden sorgulayabilirsiniz.
 
-- Bu program STRL Türk RL ligimiz için geçerlidir. Scripti (`BroadcastHelper.exe`) kendisine ait GitHub deposu açılana kadar kullanabilirsiniz, ancak Team `Team Logos` ve `Overlays` klasörlerinin içinde bulunan dosyaların hak sahibi **RLTR Turnuvaları** ekibidir. Bu dosyaların bütün hakları saklıdır.
+- Bu program STRL Türk RL ligimiz için geçerlidir. Scripti (`BroadcastHelper.exe`) kendisine ait GitHub deposu açılana kadar kullanabilirsiniz, ancak Team `Team Logos` ve `Overlays` klasörlerinin içinde bulunan dosyaların hak sahibi **TRL Rocketeers** ekibidir. Bu dosyaların bütün hakları saklıdır.
 
 ## Hangi Dosya, Ne İşe Yarıyor?
 
